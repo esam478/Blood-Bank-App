@@ -1,0 +1,15 @@
+{
+  "name": "تطبيق بنك الدم",
+  "short_name": "بنك الدم",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#e01b22",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
